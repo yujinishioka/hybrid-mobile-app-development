@@ -1,0 +1,1 @@
+Exercícios ainda datados estão listados no gitignore por motivos de segurança.

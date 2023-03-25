@@ -2,11 +2,11 @@
 
 Anotações das aulas de Hybrid Mobile App Development na FIAP
 
-Snack - React Native no Navegador: [![Snack](https://img.shields.io/badge/Snack-purple)](https://snack.expo.dev/){:target="_blank"}
+Snack - React Native no Navegador: <a href="https://snack.expo.dev/" target="_blank"><img src="https://img.shields.io/badge/Snack-purple" alt="Snack"></a>
 
-Expo Go - Rodar seus projetos no seu dispositivo: [![ExpoGo](https://img.shields.io/badge/ExpoGo-blue)](https://expo.dev/client){:target="_blank"}
+Expo Go - Rodar seus projetos no seu dispositivo: <a href="https://expo.dev/client" target="_blank"><img src="https://img.shields.io/badge/ExpoGo-blue" alt="ExpoGo"></a>
 
-Código do Professor: [![SnackProfessor](https://img.shields.io/badge/Snack-Professor-purple)](https://snack.expo.dev/@profantonio/2tdst-aula1-ex1){:target="_blank"}
+Código do Professor: <a href="https://snack.expo.dev/@profantonio/2tdst-aula1-ex1" target="_blank"><img src="https://img.shields.io/badge/Snack-Professor-purple" alt="SnackProfessor"></a>
 
 ---
 
